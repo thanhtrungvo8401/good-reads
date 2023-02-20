@@ -1,4 +1,4 @@
-# good-reads
+# Good-reads
 
 1. "The Algorithm Design Manual" by Steven S. Skiena: This book provides a comprehensive introduction to algorithms and data structures, with a focus on practical implementation and problem-solving.
 
